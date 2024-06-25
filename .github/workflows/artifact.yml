@@ -26,7 +26,7 @@ jobs:
 
     steps:
       - name: Download
-        run: cat ./artifacts/hello.txt
+        run: cat ./artifacts/hello-artifact
     
 
     
